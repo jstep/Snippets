@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 import unittest
-from ${1:Name} import $1
+from ${1:Name} import *
 
 
 class Test_$1(unittest.TestCase):
